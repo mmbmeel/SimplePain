@@ -2,4 +2,6 @@
     <string name="app_name">SimplePaint</string>
     <string name="limpar">Limpar</string>
     <string name="corVerde">Verde</string>
+    <string name="corRosa">Rosa</string>
+    <string name="corVermelha">Vermelho</string>
 </resources>
